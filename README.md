@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskar1308
 - 👀 I’m interested in projects.
-- 🌱 I’m currently learning c, java, python, Data Structure.
+- 🌱 I’m currently learning Html, css, Bootstrap, c, java, python, DSA.
 - 💞️ I’m looking to collaborate on any project that i can help with.
 - 📫 How to reach me - chiraniasanskar@gmail.com 
 
