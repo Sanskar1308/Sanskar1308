@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building projects<br>👯 I’m looking to collaborate on project that i can help with<br>🤝 I’m looking for help with frontend web-development<br>🌱 I’m currently learning full-stack web development and DSA.<br>💬 Ask me about Html, CSS, Bootstrap, C,  python, DSA.
+🔭 I’m currently working on building projects<br>👯 I’m looking to collaborate on project that i can help with<br>🤝 I’m looking for help with frontend web-development<br>🌱 I’m currently learning full-stack web development and DSA.<br>💬 Ask me about Html, CSS, Bootstrap, JavaScript, C,  python, DSA.
 
 
 ## 🌐 Socials:
