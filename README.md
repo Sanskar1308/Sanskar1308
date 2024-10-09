@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Sanskar1308&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 <div display="flex">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanskar1308&theme=apprentice&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar1308&theme=apprentice&hide_border=false" height="300" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar1308&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
