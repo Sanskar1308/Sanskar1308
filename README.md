@@ -12,7 +12,6 @@
 <div display="flex" align="center" gap="5">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar1308&theme=apprentice&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar1308&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar1308&theme=apprentice&hide_border=false" height="150" />
 </div>
 
 
