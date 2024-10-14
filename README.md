@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a MERN stack intern<br>🌱 I’m currently learning TypeScript and Next.js<br>💬 Ask me about coding and cricket
+🔭 I’m currently working as a MERN stack intern<br>🌱 I’m currently learning AWS.<br>💬 Ask me about coding and cricket
 
 
 ## 🌐 Socials:
