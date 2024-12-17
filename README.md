@@ -19,7 +19,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskar1308&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
